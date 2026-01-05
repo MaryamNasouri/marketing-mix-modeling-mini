@@ -1,4 +1,4 @@
-# marketing-mix-modeling-mini
+
 # Marketing Mix Modeling (MMM) – Budget Optimization Project
 
 ## Project Overview
